@@ -1,5 +1,5 @@
 {
-    "name": "ewallz/enginemailer-php-fork",
+    "name": "hakimrazalan/enginemailer-php",
     "description": "EngineMailer PHP REST SDK (forked + Symfony 6/7 compat)",
     "type": "library",
     "license": "MIT",
